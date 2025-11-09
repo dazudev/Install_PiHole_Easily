@@ -35,7 +35,7 @@ To install ubuntu faster and easier I recommend using the [**Ubuntu Desktop**](h
 
 <br>
 
-<sub>[Pi-Hole Documentation](https://docs.pi-hole.net/)</sub>
+<sub>[Pi-Hole Documentation](https://docs.pi-hole.net/main/basic-install/)</sub>
 
 ## Install [_Pi-Hole_](https://github.com/pi-hole/pi-hole/tree/master?tab=readme-ov-file#one-step-automated-install) in Terminal
 
